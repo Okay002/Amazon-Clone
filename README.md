@@ -1,1 +1,2 @@
-# Amazon-Clone
+-Developed a responsive Amazon clone website to demonstrate proficiency in front-end web development.
+-Ensured a seamless across various devices, including desktops, tablets, and mobile phones.
