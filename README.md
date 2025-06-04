@@ -28,7 +28,7 @@ A responsive Amazon.com clone built with HTML and CSS, featuring a modern UI tha
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/amazon-clone.git
+https://github.com/Okay002/Amazon-Clone.git
 ```
 
 2. Navigate to the project directory:
