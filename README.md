@@ -36,14 +36,14 @@ https://github.com/Okay002/Amazon-Clone.git
 cd amazon-clone
 ```
 
-3. Open `ye.html` in your web browser to view the project.
+3. Open `main.html` in your web browser to view the project.
 
 ## 📁 Project Structure
 
 ```
 amazon-clone/
-├── ye.html              # Main HTML file
-├── ah.css              # Main stylesheet
+├── main.html              # Main HTML file
+├── style.css              # Main stylesheet
 ├── nav.html            # Navigation component
 ├── images/             # Image assets
 │   ├── Amazon-Emblem.jpg
