@@ -51,14 +51,13 @@ cd amazon-clone
 
 ```
 amazon-clone/
-├── main.html              # Main HTML file containing the complete webpage structure
-├── style.css              # Main stylesheet with all styling and responsive design
+├── main.html           # Main HTML file containing the complete webpage structure
+├── style.css           # Main stylesheet with all styling and responsive design
 ├── nav.html            # Navigation component for header section
-├── images/             # Image assets
-│   ├── Amazon-Emblem.jpg
-│   ├── phone1.jpg
-│   ├── tv1.jpg
-│   └── ...
+├── Amazon-Emblem.jpg
+├── phone1.jpg
+├── tv1.jpg
+└── ...
 └── README.md           # Project documentation
 ```
 
