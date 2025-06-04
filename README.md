@@ -71,25 +71,11 @@ amazon-clone/
 - Box-shadow for depth and elevation
 - Custom color scheme matching Amazon's palette
 
-### Responsive Breakpoints
-- Desktop (> 1400px)
-- Large tablets (1024px - 1400px)
-- Tablets (768px - 1024px)
-- Mobile devices (< 768px)
-
 ### Performance Optimizations
 - Optimized images
 - Efficient CSS selectors
 - Minimal use of external resources
 - Fast loading times
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/amazon-clone/issues).
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👏 Acknowledgments
 
@@ -97,8 +83,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons provided by Font Awesome
 - Images used for demonstration purposes only
 
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/amazon-clone](https://github.com/yourusername/amazon-clone)
