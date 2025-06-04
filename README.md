@@ -37,7 +37,7 @@ These screenshots showcase the complete interface of the Amazon clone project.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/amazon-clone.git
+https://github.com/Okay002/Amazon-Clone.git
 ```
 
 2. Navigate to the project directory:
@@ -45,14 +45,14 @@ git clone https://github.com/yourusername/amazon-clone.git
 cd amazon-clone
 ```
 
-3. Open `ye.html` in your web browser to view the project.
+3. Open `main.html` in your web browser to view the project.
 
 ## 📁 Project Structure
 
 ```
 amazon-clone/
-├── ye.html              # Main HTML file containing the complete webpage structure
-├── ah.css              # Main stylesheet with all styling and responsive design
+├── main.html              # Main HTML file containing the complete webpage structure
+├── style.css              # Main stylesheet with all styling and responsive design
 ├── nav.html            # Navigation component for header section
 ├── images/             # Image assets
 │   ├── Amazon-Emblem.jpg
